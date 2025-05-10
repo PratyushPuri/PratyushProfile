@@ -1,0 +1,21 @@
+/*
+	Profile by Pratyush Puri
+	PP | @pratyushpuri
+	Free for personal and commercial use under the CCA 3.0 license (PP/license)
+*/
+
+/* Page */
+
+	body {
+		overflow-x: scroll;
+	}
+
+/* Wrapper */
+
+	body.is-preload #wrapper {
+		-moz-transform: none;
+		-webkit-transform: none;
+		-ms-transform: none;
+		transform: none;
+		opacity: 1;
+	}
